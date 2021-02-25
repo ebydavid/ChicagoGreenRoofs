@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="https://schema.datacite.org/meta/kernel-4.3/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://schema.datacite.org/meta/kernel-4.3/ https://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<titles>
+	<title xml:lang="en">Green Roofs</title>
+	<title titleType="AlternativeTitle">Chicago Green Roofs</title>
+</titles>
+<creators>
+	<creator>
+		<givenName>Jonathan</givenName>
+		<familyName>Levy</familyName>
+		<affiliation xml:lang="en">tableAuthor</affiliation>
+		<affiliation xml:lang="en">site_member</affiliation>
+		<affiliation xml:lang="en">cocoadmin</affiliation>
+	</creator>
+	<creator>
+		<creatorName nameType="Organizational">City of Chicago</creatorName>
+		<nameIdentifier>Environment &amp; Sustainable Development</nameIdentifier>
+	</creator>
+</creators>
+<publisher xml:lang="en">City of Chicago</publisher>
+<publicationYear>2010</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Green Roof Geospatial Dataset</resourceType>
+<subjects>
+	<subject subjectScheme="wikidata" schemeURI="http://www.wikidata.org/entity/Q219416" xml:lang="en" valueURI="Q219416">sustainability</subject>
+	<subject subjectScheme="wikidata" schemeURI="https://www.wikidata.org/entity/Q48741" xml:lang="en" valueURI="Q48741">green roof</subject>
+	<subject subjectScheme="wikidata" schemeURI="https://www.wikidata.org/entity/Q12271" xml:lang="en" valueURI="Q12271">architecture</subject>
+	<subject schemeURI="https://www.wikidata.org/entity/Q1297" xml:lang="en" valueURI="Q1297">Chicago</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="HostingInstitution">
+		<contributorName>City of Chicago</contributorName>
+	</contributor>
+</contributors>
+<dates>
+	<date dateInformation="originally published in 2010" dateType="Copyrighted">2010</date>
+</dates>
+<relatedIdentifiers>
+	<relatedIdentifier relatedIdentifierType="URL" relationType="isMetadataFor">https://www.kaggle.com/chicago/chicago-green-roofs</relatedIdentifier>
+	<relatedIdentifier relatedIdentifierType="URL" relationType="isSupplementTo">https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Map/u23m-pa73</relatedIdentifier>
+</relatedIdentifiers>
+<descriptions>
+	<description xml:lang="en">&quot;This dataset and corresponding map provide the location, satellite images and square footage of existing green roofs within the City of Chicago. This information is derived from an analysis of high-spatial resolution (50cm), pan-sharpened, ortho-rectified, 8-band multi-spectral satellite images collected by Digital Globe’s Worldview-2 satellite. The City supplied the consultant with a 2009 City boundary shapefile to determine the required extent of the imagery. Acquisition of three different strips of imagery corresponding to the satellite’s paths was required. These strips of imagery spanned three consecutive months and were collected in August 2010 (90% coverage), September 2010 (5% coverage) and October 2010 (5% coverage). The results of the analysis include overall count of vegetated roofs, their total square footage, and the ratio of required to elective vegetated roofs. A total of 359 vegetated roofs were identified within the City of Chicago. The total square footage of these vegetated roofs was calculated to be approximately 5,469,463 square feet. The ratio of required vegetated roofs to elective vegetative roofs was 297:62 (~5:1). The median size of the vegetated roofs was calculated to be 5,234 square feet.&quot;</description>
+</descriptions>
+<language>en</language>
+<sizes>
+	<size>CSV 94 KB</size>
+	<size>JSON 21 KB</size>
+</sizes>
+<formats>
+	<format>csv</format>
+	<format>json</format>
+</formats>
+<version>4</version>
+<rightsList>
+	<rights xml:lang="en">CC0: Public Domain</rights>
+</rightsList>
+</resource>
