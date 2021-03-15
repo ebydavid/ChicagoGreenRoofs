@@ -6,15 +6,10 @@
 </titles>
 <creators>
 	<creator>
-		<givenName>Jonathan</givenName>
-		<familyName>Levy</familyName>
-		<affiliation xml:lang="en">tableAuthor</affiliation>
-		<affiliation xml:lang="en">site_member</affiliation>
-		<affiliation xml:lang="en">cocoadmin</affiliation>
+		<creatorName>Jonathan Levy</creatorName>
 	</creator>
 	<creator>
 		<creatorName nameType="Organizational">City of Chicago</creatorName>
-		<nameIdentifier>Environment &amp; Sustainable Development</nameIdentifier>
 	</creator>
 </creators>
 <publisher xml:lang="en">City of Chicago</publisher>
